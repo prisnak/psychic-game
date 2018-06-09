@@ -1,0 +1,40 @@
+
+
+body{	
+	color: black;
+
+}
+
+
+#left, #shadow, #text{	float: left;	}
+
+
+#left{
+	background-color: #DCDCDC;
+	width: 120px;
+	height: 1000px;
+	border-right: 20px solid #F5F5F5;
+}
+
+#ask{	margin-top: 50px;	}
+
+#title{
+	font-size: 40px;
+	text-align: center;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+p{	margin-top: 20px;	}
+
+#text{
+	margin-left: 200px;
+	margin-right: 200px;
+	margin-top: 300px;
+	letter-spacing: 1.5px;
+	font-family: 'Questrial', sans-serif;
+}
+
+#container{	 margin-top: 50px;	}
+
+#userChoice{	width: 400px;	}
+
