@@ -66,7 +66,6 @@ function resetGame() {
 	guessesLeft = 9;
 	console.log(computerOption)
 	document.getElementById("userChoice").innerText = guesses;
-
 }
 
 document.onkeyup = psy; 
